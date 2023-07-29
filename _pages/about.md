@@ -24,6 +24,6 @@ Prior to my postgraduate studies, I successfully completed my Bachelor's in Engi
 
 
 ---
-> I am honored to have received the prestigious SAMSUNG - IITM PRAVARTAK Fellowship, supporting my research in Bio-Medical Image Processing at Indian Institute of Technology Madras under Prof. Mohanasankar Sivaprakasam's guidance.
+> I am honored to have received the prestigious SAMSUNG - IITM PRAVARTAK Fellowship, supporting my research at IITM.
 
 ---
