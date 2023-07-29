@@ -1,12 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  # - torvalds
+  - kpbhat25
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - kpbhat25/EE5175_ISP
+  - kpbhat25/DLI5179
+  - kpbhat25/SimpleITK-Notebooks
+  - kpbhat25/EffectivePyTorch
+  # - alshedivat/al-folio
+  # - twbs/bootstrap
+  # - jekyll/jekyll
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - jpswalsh/academicons
+  # - mathjax/MathJax

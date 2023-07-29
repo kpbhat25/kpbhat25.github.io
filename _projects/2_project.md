@@ -1,81 +1,51 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Working with Orxa
+description: Orxa Energies
+img: assets/img/orxa_energies.png
 importance: 2
 category: work
 giscus_comments: true
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div style="background-color: white; padding: 10px; border-radius: 10px;">
+            {% include figure.html path="assets/img/orxa_energies.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    First Professional Experiences.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+# My Journey at Orxa Energies: A Thrilling Voyage 🚀
 
+During my short but impactful tenure at Orxa Energies, I embarked on an exhilarating journey of growth and learning. It marked my first venture into the professional world after college, and I found myself immersed in the dynamic realm of startups, with a particular focus on the buzzing electric vehicle (EV) industry. 🏢🚗
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Testing the Life Cycles of Li-ion Battery Cells ⚡
 
+One of the most exciting projects I was entrusted with was the testing of Li-ion battery cell life cycles. Working in close collaboration with my team, I actively participated in building the basic circuit for the tests. As a key member, my responsibilities involved designing experiments and conducting in-depth analytics on the data we collected. It was an immensely rewarding experience that enhanced my technical prowess and problem-solving skills. 🔬💡
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## A Supportive Team that Nurtured Growth 🤝
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Throughout my journey, I was fortunate to be a part of an incredible and supportive team. Gokul, Tarun, Iqbal, Shubham, and Janardhan played instrumental roles in fostering an environment of collaboration and knowledge-sharing. Their willingness to clarify doubts and share insights into the intricacies of Li-ion cells accelerated my understanding and fueled my curiosity to explore the subject further. Together, we faced challenges head-on and celebrated victories as one cohesive unit. 🙌❤️
+
+## PCB Design and Adapting to Unprecedented Times 📏🔧
+
+In the midst of the COVID-19 lockdown, I embarked on another exciting endeavor - the design of the Printed Circuit Board (PCB) for our new testing setup. Despite the challenges posed by remote work and restricted access, I used this time wisely to master tools like KiCad. These newfound skills not only streamlined our PCB design process but also demonstrated my adaptability and determination in the face of unforeseen circumstances. 💻🏠
+
+## Decoding the Enigma: The Electric Vehicle's Battery Management System (BMS) 🧩🔋
+
+Troubleshooting and comprehending the intricate details of the Electric Vehicle's Battery Management System (BMS) was a fascinating yet formidable experience. As I delved into the complexities, I encountered real-world scenarios that demanded creative problem-solving and critical thinking. This journey honed my expertise in handling advanced technologies, deepened my passion for the EV industry, and reinforced my commitment to continuous learning and professional growth. 🚦🔍
+
+## Gratitude and Appreciation 🙏
+
+No blog would be complete without acknowledging the people who made this journey truly remarkable. I extend my heartfelt gratitude to my extraordinary teammates - Gokul, Tarun, Iqbal, Shubham, and Janardhan - for their unwavering support and camaraderie. Special thanks go to Amrudesh, who introduced me to the world of Git, enabling me to perform seamless pull and push operations and write clean, efficient code (a skill I now confidently share with others). 🤗🌟
+
+## The Resilient Captains who Steered the Ship ⚓
+
+In the face of adversity, our exceptional leaders exhibited unwavering resilience and guidance. Their steadfastness steered our team through turbulent waters during the challenging times of COVID and the post-pandemic phase. With their support, we stayed focused on our goals, accomplished remarkable achievements, and emerged stronger as a united force. Together, we turned trials into triumphs, making these experiences and memories truly unforgettable. 🌊🚢
+
+As I bid adieu to this chapter, I carry with me a treasure trove of experiences and lessons that will undoubtedly shape my future endeavors. I am grateful for the opportunities I had at Orxa Energies, and I eagerly look forward to new horizons, armed with the knowledge and passion I gained during this extraordinary voyage. 🚀🌠
+
+*Thank you for joining me on this adventure!* 🙏✨

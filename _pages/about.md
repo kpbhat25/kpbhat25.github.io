@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: Graduate Student IITM
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> <a href= 'https://public.humanbrain.in/public'> Sudha Gopalakrishnan Brain Centre </a> </p>
+    <p>IIT Madras</p>
+    <p>Chennai , India - 600036</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a second year MS (by Research) student in [Electrical Engineering](https://www.ee.iitm.ac.in/) at the esteemed [Indian Institute of Technology Madras](https://www.iitm.ac.in/), where I am affiliated with the  Sudha Gopalakrishnan Brain Centre ([SGBC]([SGBC-IITM](https://public.humanbrain.in/public/))) Lab.Under the expert guidance of [Prof.Mohanasankar Sivaprakasam]((https://www.ee.iitm.ac.in/mohan/)).I am pursuing my research in the field of Bio-Medical Image Processing, with a specific focus on Registration and Segmentation. My research aims to explore the applicability of these techniques on a large-scale dataset.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to my postgraduate studies, I successfully completed my Bachelor's in Engineering from [B.M.S.College of Engineering](https://www.bmsce.ac.in/), which provided a strong foundation for my current academic pursuits.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+---
+> I am honored to have received the prestigious SAMSUNG - IITM PRAVARTAK Fellowship, supporting my research in Bio-Medical Image Processing at Indian Institute of Technology Madras under Prof. Mohanasankar Sivaprakasam's guidance.
+
+---
