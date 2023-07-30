@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: a post with jupyter notebook
 date: 2023-07-04 08:57:00-0400
@@ -41,4 +41,4 @@ The plugin takes as input the path to the notebook, but it assumes the file exis
 {% endif %}
 {:/nomarkdown}
 
-Note that the jupyter notebook supports both light and dark themes.
+Note that the jupyter notebook supports both light and dark themes. -->

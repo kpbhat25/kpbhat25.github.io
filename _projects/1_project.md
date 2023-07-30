@@ -3,7 +3,7 @@ layout: page
 title: DESIGN AND DEVELOPMENT OF BLACKBOX FOR A CAR
 description: Final Year Project.
 img: assets/img/project1_front.jpg
-importance: 1
+importance: 3
 category: work
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
