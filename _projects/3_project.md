@@ -6,6 +6,7 @@ img: assets/img/b1.jpeg
 # redirect: https://unsplash.com
 importance: 1
 category: work
+
 ---
 
 

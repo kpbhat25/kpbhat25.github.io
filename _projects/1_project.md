@@ -5,6 +5,11 @@ description: Final Year Project.
 img: assets/img/project1_front.jpg
 importance: 3
 category: work
+libraries:
+  - Raspberry-Pi
+  - OpenCV
+  - CAD
+  - Google Map API
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
 

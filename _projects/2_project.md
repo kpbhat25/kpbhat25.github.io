@@ -5,7 +5,11 @@ description: Orxa Energies
 img: assets/img/orxa_energies.png
 importance: 2
 category: work
-giscus_comments: true
+libraries:
+  - Ki-Cad
+  - Node-RED
+  - ARM-C++
+# giscus_comments: true
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

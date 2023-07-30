@@ -1,0 +1,31 @@
+/* style.css */
+.project-libraries {
+  margin-top: 15px;
+}
+
+.project-libraries h5 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.project-libraries ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.project-libraries li {
+  display: inline-block;
+  background-color: #007bff;
+  color: #fff;
+  padding: 6px 12px;
+  border-radius: 20px;
+  margin-right: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.project-libraries li:hover {
+  background-color: #0056b3;
+}
