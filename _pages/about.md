@@ -2,14 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Student IITM
+subtitle: Graduate Student IIT Madras 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> <a href= 'https://public.humanbrain.in/public'> Sudha Gopalakrishnan Brain Centre </a> </p>
-    <p>IIT Madras</p>
+    <p>
+    <img src='assets/img/favicon.png' alt='Brain Centre Icon' style='vertical-align: middle; width: 30px; height: 30px;' />
+     <a href= 'https://public.humanbrain.in/public'> Sudha Gopalakrishnan Brain Centre </a> 
+    
+    </p>
+    <p>IIT Madras 
+    <img src='assets/img/iitm_logo.png' alt='IITM LOGO Icon' style='vertical-align: middle; width: 30px; height: 30px;' /></p>
     <p>Chennai , India - 600036</p>
 
 news: true  # includes a list of news items
