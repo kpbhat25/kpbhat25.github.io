@@ -7,12 +7,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>
-    </p>
-    <p>Collins Aerospace
-    <img src='assets/img/Collins_Aerospace_Logo.png' alt='Collins Aerospace' style='vertical-align: middle; width: 90px; height: 30px;' /></p>
-    <p>Bengaluru , India - 560064</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
