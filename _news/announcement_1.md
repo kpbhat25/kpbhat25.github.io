@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Large Brain Data Workshop for BS Data Science students.
-
+Great to be a part of the team at [SGBC](https://www.iitm.ac.in/happenings/press-releases-and-coverages/iit-madras-releases-most-detailed-3d-high-resolution-images).
