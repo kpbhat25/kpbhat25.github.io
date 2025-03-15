@@ -11,7 +11,7 @@ profile:
     <p>
     </p>
     <p>Collins Aerospace
-    <img src='assets/img/Collins_Aerospace_Logo.png' alt='Collins Aerospace' style='vertical-align: middle; width: 30px; height: 30px;' /></p>
+    <img src='assets/img/Collins_Aerospace_Logo.png' alt='Collins Aerospace' style='vertical-align: middle; width: 90px; height: 30px;' /></p>
     <p>Chennai , India - 600036</p>
 
 news: true  # includes a list of news items
