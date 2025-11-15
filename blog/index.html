@@ -1,22 +1,31 @@
 ---
 layout: default
-title: blog
+title: Blog
 pagination:
   enabled: true
   collection: posts
-  permalink: /page/:num/
+  permalink: /blog/page/:num/
   per_page: 5
 ---
 
-<h1>{{ site.blog_name }}</h1>
-<h2>{{ site.blog_description }}</h2>
+<h1>Blog</h1>
 
-<p>Checking if blog is working...</p>
-
-<h3>All site posts (debugging)</h3>
 <ul>
-  {% for post in site.posts %}
-    <li>{{ post.date }} — <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% for post in paginator.posts %}
+    <li>
+      <strong>{{ post.date | date: "%Y-%m-%d" }}</strong> —
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
   {% endfor %}
 </ul>
 
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Previous</a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% endif %}
+</div>
