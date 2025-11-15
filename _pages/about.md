@@ -2,29 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Student IIT Madras 
+subtitle: Research Engineer  
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true
+latest_posts: true
+selected_papers: true
+social: true
 ---
 
+I am a **Research Engineer** at [Collins Aerospace](https://www.collinsaerospace.com/), working in the **Applied Research & Technology (ART)** team. My work focuses on **Augmented Reality (AR)**, **Virtual Reality (VR)**, and **Large Language Models (LLMs)**.
 
-I am a **Research Engineer** at [Collins Aerospace](https://www.collinsaerospace.com/), working in the [Applied Research & Technology (ART)](https://www.collinsaerospace.com/what-we-do/capabilities/technology-and-innovation/applied-research-and-technology) team. My current work focuses on **Augmented Reality (AR), Virtual Reality (VR),** and **Large Language Models (LLMs)**.  
+I completed my **MS (by Research) in Electrical Engineering** at [IIT Madras](https://www.iitm.ac.in/), where I worked at the [Sudha Gopalakrishnan Brain Centre (SGBC)](https://public.humanbrain.in/public/) on **biomedical image processing**, specifically **registration** and **segmentation**, under **Prof. Mohanasankar Sivaprakasam** and **Keerthi Ram**.
 
-I earned my **MS (by Research) in Electrical Engineering** from the [Indian Institute of Technology Madras (IITM)](https://www.iitm.ac.in/), where I conducted research at the [Sudha Gopalakrishnan Brain Centre (SGBC)](https://public.humanbrain.in/public/). Under the guidance of [Prof. Mohanasankar Sivaprakasam](https://www.ee.iitm.ac.in/mohan/) and [Keerthi Ram](https://scholar.google.com/citations?user=IUk8C0MAAAAJ&hl=fr), my research focused on **Biomedical Image Processing**, specifically **registration and segmentation**.  
-
-I hold a **Bachelor’s degree in Engineering** from [B.M.S. College of Engineering](https://www.bmsce.ac.in/).  
-
-
+I hold a **Bachelor’s degree in Engineering** from [B.M.S. College of Engineering](https://www.bmsce.ac.in/).
 
 ---
-> I am honored to be part of [DHARANI](https://brainportal.humanbrain.in/publicview/index.html): A 3D Developing Human-brain Atlas Resource to Advance Neuroscience Internationally -- Integrated Multimodal Imaging and High-resolution Histology of the second trimester.
-> [IITM Brain Centre](https://iitm.humanbrain.in/index.html)
+
+> I contributed to **DHARANI**, a project creating a high-resolution 3D developing human-brain atlas at the **IITM Brain Centre**.
 
 ---
