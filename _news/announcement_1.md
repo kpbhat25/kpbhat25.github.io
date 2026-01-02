@@ -4,6 +4,10 @@ date: 2025-05-07 15:59:00 -0400
 inline: true
 related_posts: false
 ---
+🎉 Congratulations to Prof. Mohan on winning **[Rashtriya Vigyan Puraskar](https://theindianpractitioner.com/iit-madras-professor-wins-rashtriya-vigyan-puraskar-for-transforming-healthcare-technology/)**. 
+
+---
+
 📢 Our paper [**PosDiffAE**](https://ieeexplore.ieee.org/abstract/document/10989734) has been accepted in [**IEEE JBHI**](https://www.embs.org/jbhi/)!  
 🎉 Congratulations to Ayantika on this achievement!
 
