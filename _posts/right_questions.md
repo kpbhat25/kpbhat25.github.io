@@ -1,4 +1,10 @@
-# Asking the Right Questions
+---
+layout: post
+title: "Asking the Right Questions"
+date: 2026-03-26
+---
+
+# Asking the Right Questions to LLM
 
 *Why knowing what you don't know is harder than knowing what you do*
 
