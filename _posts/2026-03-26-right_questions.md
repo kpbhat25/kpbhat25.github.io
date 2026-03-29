@@ -15,7 +15,7 @@ You appreciated the question which helped you track down why this was done and h
 
 This is the strange asymmetry of understanding: we often don't know what we're missing until someone shows us. For humans, this is frustrating enough(usually happens when you are working with something complex and you tend to miss a piece because you never thought it that way). For AI systems, it's a fundamental capability we haven't really cracked.
 
-![Asking the Right Questions](blog_asset/mermaid-diagram.svg "Mind Map of the Asking the Right Questions")
+![Asking the Right Questions](/assets/img/blog/mermaid-diagram.svg "Mind Map of the Asking the Right Questions")
 
 
 ## The Missing Piece Problem
